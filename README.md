@@ -1,6 +1,4 @@
-# NeRF Studio React Node
-
-# React AWS S3 File Upload
+# React AWS S3 File Upload using React JS and Node JS
 
 This is a simple React application that allows users to upload a file to an Amazon S3 bucket.
 
